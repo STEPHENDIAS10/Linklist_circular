@@ -171,3 +171,5 @@ int main()
    deleteNode(&last,10);
    return 0;
 }
+
+// if this could be modified and made better welcome to do so
